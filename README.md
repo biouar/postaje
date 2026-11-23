@@ -1,7 +1,6 @@
 # postaje
 
-Paket vreme omogoča beleženje temperaturnih meritev vremenskih postaj in
-izračun osnovne statistike meritev.
+Paket vreme se uporablja za beleženje temperaturnih meritev vremenskih postaj.
 
 Primer uporabe:
 
